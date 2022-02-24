@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-
+// @ts-ignore
+import * as carousle from '../assets/carousel.js';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
